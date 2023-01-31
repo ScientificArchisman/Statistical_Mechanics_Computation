@@ -5,6 +5,7 @@
 Currently, the following information is available:
 - Random Walk
   1. Random Walk in 1D
+    * Theory
     * Code
     * Animation
   2. Random Walk in 2D
