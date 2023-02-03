@@ -11,6 +11,10 @@ Currently, the following information is available:
   2. Random Walk in 2D
     * Code
     * Animation
+  3. Random Walk in 3D
+    * Code
+    * Plot
+    * Animation
     
 - Brownian motion
   *Code
