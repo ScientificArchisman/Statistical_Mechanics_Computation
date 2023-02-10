@@ -17,5 +17,9 @@ Currently, the following information is available:
     * Animation
     
 - Brownian motion
-  *Code
-  *Animation
+  * Code
+  * Animation
+  
+- Plotting
+  * Black body radiation curve for Rayleigh-Jeans law and Plank's law theory
+  * Black body radiation curve for Rayleigh-Jeans law and Plank's law code
