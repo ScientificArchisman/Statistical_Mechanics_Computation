@@ -73,3 +73,10 @@ This is in accordance with the experimental data. The Planck law is the correct 
 
 ---
  
+
+
+## References:
+- [Rayleigh-Jeans Law](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Jeans_law)
+- [Planck's Law](https://en.wikipedia.org/wiki/Planck%27s_law)
+- [Black Body Radiation](https://en.wikipedia.org/wiki/Black-body_radiation)
+
