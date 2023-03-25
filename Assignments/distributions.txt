@@ -1,0 +1,78 @@
+2 particles in a single particle state
+having energies 0, E, 2E. Find the number
+of micro states following MB, BE, and F.D
+Statistics.
+
+-----------------------------------
+M.B Statistics - Particles are A, B
+-----------------------------------
+0	E	2E	Ni		Energy
+--	--	--	--		------
+A	B		(1, 1, 0)	E
+B	A		(1, 1, 0)	E
+A	0	B	(1, 0, 1)	2E
+B	0	A	(1, 0, 1)	2E
+0	A	B	(0, 1, 1)	3E
+0	B	A	(0, 1, 1)	3E
+	AB		(0, 2, 0)	2E
+AB			(2, 0, 0)	0
+		AB	(0, 0, 2)	4E
+
+Number of microstates = 9
+Zhi = 3/6 = 1/2
+
+-----------------------------------------------
+Bose Einstein statistics - (Particles are |, |)
+-----------------------------------------------
+0	E	2E	Ni		Energy
+-----------------------------------------------
+|	|		(1, 1, 0)	E
+
+|		|	(1, 0, 1)	2E
+
+	|	|	(0, 1, 1)	3E
+
+||			(2, 0, 0)	0
+
+	||		(0, 2, 0)	2E
+
+		||	(0, 0, 2)	4E
+
+Number of microstates = 6
+Zhi = 3/3 = 1
+
+----------------------------------------------
+Fermi Dirac Statistics - (Particles |, |)
+----------------------------------------------
+0	E	2E	Ni		Energy
+------------------------------------------------
+|	|		(1, 1, 0)	E
+
+|		|	(1, 0, 1)	2E
+
+	|	|	(0, 1, 1)	3E
+
+Number of micro states = 3
+Zhi = 0
+----------------------------------------------
+
+Zhi = probability that the 2 particles are found in the same state
+      DIVIDED BY THE prob that 2 PARTICLES ARE FOUND IN DIFFERENT STATES
+--------------------------------------------------------------------------
+
+
+What is distribution function?
+----------------------------------
+If dN is the number of molecules in unit volume, whose speeds lie between c to c + dc, so dN would be greater if dc is greater, so dN
+Is proportional to dc.
+Therefore, dN = kdc.
+
+Where k is a constant of proportionality.
+
+The quantity dN again depends on the velocity itself for this number, even in identical intervals would be different 
+in different values of the velocities. So the constant K is a function of the speed c.
+So, k = f(c) and dN is proportional to N.
+So, dN = N f(c) dc.
+
+The function f(c) is called a distribution function. If dc = 1, f(c) = dN/N which is same as the probability of the number of
+Particles in the velocity range c to c + dc.
