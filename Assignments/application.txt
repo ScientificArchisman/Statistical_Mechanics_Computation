@@ -1,0 +1,39 @@
+ Question 1
+ ------------------------
+ 
+ We would like to know more about you. What inspired you to study your chosen subject, and why have you chosen The University of Sheffield? 
+ What will you do if you do not receive this scholarship?
+
+ Ans:
+ As an aspiring data scientist, I'm fascinated by the potential of computational physics and big data to solve complex problems. Studying at this pioneering European institution, renowned for research, would be a dream come true.
+
+After ranking among India's top 1% in higher secondary exams, I pursued a physics undergraduate degree at St. Xavier's College. At a seminar by Prof. Tanusri Saha-Dasgupta, I learned about using random forest algorithms to discover 32 compounds with over 80% cross-validation score. This inspired my pursuit of data-driven research and my aspirations to become a data scientist.
+
+I co-authored four research papers with the Microbiology department under Dr. Arup Kumar Mitra, currently under peer review for Springer Journals. The first paper (EMID:7cfacd2eaec7b889) develops dynamic principles to improve agricultural efficiency and predict future production using computational models. The second paper (EMID:6f63aec2b116766a) studies the Himalayan Polyextremophillic Firmicutes and its significance in future agriculture. The third paper (EMID:899f7cb1c1aee8dd) examines the use of certain bacteria on agricultural soil using predictive technologies.
+
+My final year dissertation, advised by Dr. Indranath Chaudhuri, involved developing a deep neural network to predict heart disease using ECG data (98% cross-validation score).
+
+My background in AI and scientific research proficiency makes me an excellent candidate for this course.
+
+My academic background in mathematics, physics, and statistics, along with research proficiency in AI, makes me an ideal candidate for this course. I received the Jagadish Bose National Science Talent Search scholarship (<0.01% selection) in high school and have won several mathematics and science contests. I ranked in the top 1% of India's toughest national competitive exams, including JEE Main & Advanced, WBJEE, and Indian baccalaureate students.
+
+I have a strong background in math and programming languages including Python, Matlab, R, and JavaScript. My coursework in Probability Theory, Statistical distributions, and Mathematical Physics honed my computational and analytical abilities.
+
+ My courses in Electromagnetic Theory, Quantum Mechanics, and Waves and Oscillations honed my intuition in mathematics and computation. I also published a Python module called "pyundergraduate," including common computational techniques from various fields
+
+I am excited about the laboratory work and internship opportunities with leading companies such as BAE Systems, Boeing, Rolls-Royce, and Airbus at the Advanced Manufacturing Park. The University of Sheffield's partnerships with world-class universities and research labs like the Advanced Resource Efficiency Centre and Advanced Manufacturing Research Centre make it a top institution for cutting-edge research in Data Science. Being a part of the Russell Group, a collection of 24 research-intensive universities in the UK, further solidifies the university's reputation for academic excellence and research. Attending a Russell Group university like the University of Sheffield will provide invaluable exposure and benefits for my career as a data scientist.
+
+Although not receiving the scholarship would be disappointing, I would not lose hope and continue to search for other opportunities that align with my goals. I would also explore postgraduate courses in India and consider education loans. Regardless of the outcome, I am committed to pursuing my dreams with determination and resilience.
+
+Q2 What are your future ambitions
+-------------------------------
+
+As a student of physics, I have come to appreciate the power of data analysis in solving problems in various scientific fields. I believe that integrating data science in various departments of physics will lead to more efficient problem-solving and innovation. I am particularly interested in the usage of data science in astronomy, which can help us better understand the universe and the objects within it.
+One area I am keen on exploring is the usage of big data and predictive technologies in the detection of dark matter. This is a fundamental problem in physics, and I believe that with the skillset I will gain from this course, I will be able to contribute significantly to this research. I am also interested in contributing to recent advancements in space exploration, especially the Mars missions.
+Moreover, I am passionate about tackling the problem of climate change using predictive models. Currently, I am working with the Indian Institute of Technology, Delhi, in the detection and analysis of PM 2.5 and 5 matter in Indian cities, and how cardiovascular diseases are being manifested from them.
+
+COVID-19 has highlighted the importance of data science and AI in medical problem-solving. Huge data analysis is now fundamental in developing effective strategies for the virus. Machine learning and deep learning networks have enabled significant progress in COVID-19 treatments and vaccines.
+My goal is to use my skills to develop automated workflows and generate robust models that will make remarkable advancements in the medical industry. I envision a future where such workflows analyze patient data and provide personalized treatment plans, ultimately contributing to the development of new drugs and medical discoveries.
+My long-term goal is to pursue a PhD in Artificial Intelligence. I would like to work for premier Machine learning and deep learning libraries and companies like Google Brain, Meta, and OpenAI, where I can explore natural language models. Additionally, I would like to work with the robotics department and integrate my skillset gained from this course, my Bachelor's in physics, and my PhD with hardware to develop automated humanoids that may be useful in the day-to-day work of all human beings.
+My ultimate goal would be to integrate artificial intelligence in every part of human life. Automated humanoids would increase work efficiency in all fields of academics. The complex algorithms generated from them would be integrated into the fields of business and research to improve market predictions and make remarkable discoveries. In the medical field, automated humanoids would remove human error and greatly improve patient care. Models relating to ensemble theory and signal processing would be used in both the medical field and economics, benefiting both these fields. Automated humanoids would help automate complex medical procedures and lead to better medical diagnosis and treatment.
+I'm thrilled for the course and scholarship, as they'll support my academic and career goals. I'm confident that the knowledge and skills I'll gain will make a significant impact on society and the scientific community.
